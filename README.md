@@ -2,5 +2,5 @@
 ### Tasks Covered
 
 - [x] Session 1 (Math and Bitwise Operations)
-- [] Session 2
-- [] Session 3
+- [ ] Session 2
+- [ ] Session 3
